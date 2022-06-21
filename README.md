@@ -1,4 +1,8 @@
-### Hi there 👋
+# Welcome to my GitHub profile! 
+
+![Me and my bao](bao.jpg)
+
+^ Me (right) and the love of my life (left). I swear we're not the same person! 
 
 <!--
 **Vrownie/Vrownie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
