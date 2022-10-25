@@ -1,6 +1,6 @@
 # Welcome to my GitHub profile! 
 
-![Me and my bao](bao.jpg)
+<img src="bao.jpg" alt="Me and my bao" width="500"/>
 
 ^ Me (right) and the love of my life (left). I swear we're not the same person! 
 
