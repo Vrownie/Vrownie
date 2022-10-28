@@ -2,7 +2,11 @@
 
 <img src="bao.jpg" alt="Me and my bao" width="400"/>
 
-^ Me (right) and the love of my life (left). I swear we're not the same person! 
+^ Me (right) and the love of my life (left). I swear we're not the same person!
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=Vrownie&theme=dracula&show_icons=true&count_private=true)
+
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=Vrownie&theme=dracula&layout=compact)
 
 <!--
 **Vrownie/Vrownie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
